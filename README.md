@@ -58,7 +58,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ThandavaKrishna999&theme=dracula&hide_border=true" height="150" />
 </div>
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ThandavaKrishna999.ThandavaKrishna999&"  />
