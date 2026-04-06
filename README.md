@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hi 👋! I’m Thandava Krishna, an aspiring data analyst from Andhra Pradesh, India, building skills in SQL, Python, and data visualization."</h1>
+<h1 align="center">Hi 👋! I’m Thandava Krishna, an aspiring data analyst from Andhra Pradesh, India, building skills in SQL, Python, and data visualization.</h1>
 
 ###
 
