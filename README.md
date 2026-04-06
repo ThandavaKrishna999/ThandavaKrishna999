@@ -46,9 +46,18 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ThandavaKrishna999&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThandavaKrishna999&show_icons=true&theme=dracula&hide_border=true" height="150" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThandavaKrishna999&layout=compact&theme=dracula&hide_border=true" height="150" />
+
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ThandavaKrishna999&theme=dracula&hide_border=true" height="150" />
+</div>
 ###
 
 <div align="center">
